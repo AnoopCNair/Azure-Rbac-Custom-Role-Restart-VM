@@ -1,0 +1,1 @@
+{"properties":{"roleName":"HTMD Restart VM Helpdesk Operator","description":"HTMD Restart VM Helpdesk Operator","assignableScopes":["/subscriptions/SUBSCRIPTION_ID"],"permissions":[{"actions":["Microsoft.Compute/virtualMachines/read","Microsoft.Compute/virtualMachines/restart/action"],"notActions":[],"dataActions":[],"notDataActions":[]}]}}
